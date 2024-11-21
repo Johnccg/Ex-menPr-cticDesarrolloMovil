@@ -1,1 +1,4 @@
-# Ex-menPr-cticDesarrolloMovil
+# ExamenPracticoDesarrolloMovil
+
+Juan Carlos Calderón García - A01625696
+Android
